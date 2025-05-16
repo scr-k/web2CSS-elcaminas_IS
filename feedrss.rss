@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Feed FilMoeKing</title>
+        <link>https://scr-k.github.io/web2CSS-elcaminas_IS/index.html</link>
+        <description>Novedades de filmación y contratación de servicios</description>
+
+        <item>
+            <title>Artículo contratación FilMoeKing</title>
+            <link>https://scr-k.github.io/web2CSS-elcaminas_IS/A4-Izhar_servicios2.html</link>
+            <description>Precios y Servicios de filmación</description>
+        </item>
+        <image>
+            <title>Imagen de Prueba</title>
+            <url>https://www.unir.net/wp-content/uploads/2024/10/Bienestar-social-que-es-y-como-se-mide2.jpg</url>
+            <link>https://scr-k.github.io/web2CSS-elcaminas_IS/index.html</link>
+                <width>90</width>
+                <height>36</height>
+        </image>
+    </channel>
+</rss>
